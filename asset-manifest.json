@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flat-studios/static/css/main.4642a08d.css",
+    "main.js": "/flat-studios/static/js/main.10b42fe5.js",
+    "static/js/787.1f28e422.chunk.js": "/flat-studios/static/js/787.1f28e422.chunk.js",
+    "index.html": "/flat-studios/index.html",
+    "main.4642a08d.css.map": "/flat-studios/static/css/main.4642a08d.css.map",
+    "main.10b42fe5.js.map": "/flat-studios/static/js/main.10b42fe5.js.map",
+    "787.1f28e422.chunk.js.map": "/flat-studios/static/js/787.1f28e422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4642a08d.css",
+    "static/js/main.10b42fe5.js"
+  ]
+}
